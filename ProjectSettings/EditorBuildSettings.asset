@@ -8,7 +8,7 @@ EditorBuildSettings:
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0f4c9fa5d4f09044c84e81d52f4e7b18,
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e3cc06b9b8f9bd94a94557f0e61dc7c9,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
       type: 2}
